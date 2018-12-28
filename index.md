@@ -35,7 +35,18 @@ It is likely that the participants to this course aim at getting involved in gen
       <th>Core pipeline (notebooks)</th>
       <th>Annex (notebooks)</th>
     </tr>
-
+    <tr>
+      <td>
+       <ul>
+        <li> <a href="/Presentations/Day1/01_20180917_Welcome.pdf">Welcome</a></li>
+        <li> <a href="/Presentations/Day1/02_20180917_introduction_to_structure_determination.pdf">Intro structure determination</a></li>
+        <li> <a href="/Presentations/Day1/03_20180917_3D-genomes_overview.pdf">3D Genomes overview</a></li>
+        <li>[Intro TADbit](/Presentations/Day1/04_20180917_Intro_TADbit.pdf)</li><li>[NGS for HiC](/Presentations/Day1/05_20180917_NGS_for_HiC.pdf)</li>
+        <li>[Intro UNIX](/Presentations/Day1/06_20180917_linux.pdf)</li><li>[Intro Python](/Presentations/Day1/07_20180917_python.pdf)</li>
+       </ul>
+     </td>
+    <tr>
+      <td>
 
 
 
