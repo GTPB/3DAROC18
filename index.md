@@ -52,7 +52,7 @@ It is likely that the participants to this course aim at getting involved in gen
        <ul>
         <li> <a href="/Notebooks/00-Hi-C%20quality%20check.ipynb">Hi-C Quality check</a></li>
         <li> <a href="/Notebooks/01-Mapping.ipynb">Mapping</a></li>
-        <li> <a href="/Notebooks/02-Parsing%20mapped%20reads.ipynb">Parsing mapped reads</a></li></li>
+        <li> <a href="/Notebooks/02-Parsing%20mapped%20reads.ipynb">Parsing mapped reads</a></li>
        </ul>
     </td>
     <td>
