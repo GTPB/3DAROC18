@@ -65,6 +65,72 @@ It is likely that the participants to this course aim at getting involved in gen
    </tr>
   </tbody>
 </table>
+<br/>
+
+### Day 2
+
+<table style="width:100%">
+  <tbody>
+    <tr>
+      <th style="padding: 15px">Lectures (pdf)</th>
+      <th style="padding: 15px">Core pipeline (notebooks)</th>
+      <th style="padding: 15px">Annex (notebooks)</th>
+    </tr>
+    <tr>
+     <td>
+       <ul>
+        <li> <a href="/Presentations/Day2/01_20180918_Summary_of_day_1.pdf">Morning wrap up</a></li>
+        <li> <a href="/Presentations/Day2/02_20180918_Chromatin_and_3Cs.pdf">Chromatin and 3Cs</a></li>
+        <li> <a href="/Presentations/Day2/03_20180918_TADbit.pdf">TADbit</a></li>
+        <li> <a href="/Presentations/Day2/04_20180918_Applications(II)_Caulobacter.pdf">Applications (I): Caulobacter</a></li>
+       </ul>
+     </td>
+     <td>
+       <ul>
+        <li> <a href="/Notebooks/03-Filtering%20mapped%20reads.ipynb">Filterind reads</a></li>
+        <li> <a href="/Notebooks/04-Bin-filtering%20and%20normalization.ipynb">Normalization</a></li>
+       </ul>
+    </td>
+    <td>
+       <ul>
+        <li> <a href="/Notebooks/A3-Compare%20and%20merge%20Hi-C%20experiments.ipynb">Compare/merge experiments</a></li>
+       </ul>
+    </td>
+   </tr>
+  </tbody>
+</table>
+<br/>
+
+### Day 3
+
+<table style="width:100%">
+  <tbody>
+    <tr>
+      <th style="padding: 15px">Lectures (pdf)</th>
+      <th style="padding: 15px">Core pipeline (notebooks)</th>
+      <th style="padding: 15px">Annex (notebooks)</th>
+    </tr>
+    <tr>
+     <td>
+       <ul>
+        <li> <a href="/Presentations/Day3/01_20180919_Summary_of_day_2.pdf">Morning wrap up</a></li>
+        <li> <a href="/Presentations/Day3/02_20180919_Applications(II)_TAD_hormone.pdf">Applications(II) TAD hormone</a></li>
+        <li> <a href="/Presentations/Day3/02_20180920_Applications(IIIa)_SOX2Dynamics.pdf">Applications (III) SOX2 Dynamics</a></li>
+       </ul>
+     </td>
+     <td>
+       <ul>
+        <li> <a href="/Notebooks/05-Compartments%20and%20TADs.ipynb">Compartments and TADs</a></li>
+       </ul>
+    </td>
+    <td>
+       <ul>
+        <li> <a href="/Notebooks/A4-Align%20and%20compare%20TADs.ipynb">Align and compare TADs</a></li>
+       </ul>
+    </td>
+   </tr>
+  </tbody>
+</table>
 
 
 ---
