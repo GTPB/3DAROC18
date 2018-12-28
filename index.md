@@ -57,13 +57,14 @@ It is likely that the participants to this course aim at getting involved in gen
     </td>
     <td>
        <ul>
-        <li>[Software installation](/Notebooks/A0-Preparing%20your%20computer%20for%20HiC%20data%20analysis.ipynb)</li>
-        <li>[Prepare reference genome](/Notebooks/A1-Preparation%20reference%20genome.ipynb)</li>
-        <li>[Download Hi-C experiment](/Notebooks/A2-Download%20published%20Hi-C%20experiments.ipynb)</li>
+        <li> <a href="/Notebooks/A0-Preparing%20your%20computer%20for%20HiC%20data%20analysis.ipynb">Software installation</a></li>
+        <li> <a href="/Notebooks/A1-Preparation%20reference%20genome.ipynb">Prepare reference genome</a></li>
+        <li> <a href="/Notebooks/A2-Download%20published%20Hi-C%20experiments.ipynb">Download Hi-C experiment</a></li>
        </ul>
     </td>
-
-
+   </tr>
+  </tbody>
+</table>
 
 
 ---
