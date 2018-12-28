@@ -37,7 +37,7 @@ It is likely that the participants to this course aim at getting involved in gen
       <th>Annex (notebooks)</th>
     </tr>
     <tr>
-      <td>
+     <td>
        <ul>
         <li> <a href="/Presentations/Day1/01_20180917_Welcome.pdf">Welcome</a></li>
         <li> <a href="/Presentations/Day1/02_20180917_introduction_to_structure_determination.pdf">Intro structure determination</a></li>
@@ -48,16 +48,14 @@ It is likely that the participants to this course aim at getting involved in gen
         <li> <a href="/Presentations/Day1/07_20180917_python.pdf">Intro Python</a></li>
        </ul>
      </td>
-    <tr>
-      <td>
+     <td>
        <ul>
         <li> <a href="/Notebooks/00-Hi-C%20quality%20check.ipynb">Hi-C Quality check</a></li>
         <li> <a href="/Notebooks/01-Mapping.ipynb">Mapping</a></li>
         <li> <a href="/Notebooks/02-Parsing%20mapped%20reads.ipynb">Parsing mapped reads</a></li></li>
        </ul>
     </td>
-    <tr>
-      <td>
+    <td>
        <ul>
         <li>[Software installation](/Notebooks/A0-Preparing%20your%20computer%20for%20HiC%20data%20analysis.ipynb)</li>
         <li>[Prepare reference genome](/Notebooks/A1-Preparation%20reference%20genome.ipynb)</li>
