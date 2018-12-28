@@ -42,12 +42,28 @@ It is likely that the participants to this course aim at getting involved in gen
         <li> <a href="/Presentations/Day1/01_20180917_Welcome.pdf">Welcome</a></li>
         <li> <a href="/Presentations/Day1/02_20180917_introduction_to_structure_determination.pdf">Intro structure determination</a></li>
         <li> <a href="/Presentations/Day1/03_20180917_3D-genomes_overview.pdf">3D Genomes overview</a></li>
-        <li>[Intro TADbit](/Presentations/Day1/04_20180917_Intro_TADbit.pdf)</li><li>[NGS for HiC](/Presentations/Day1/05_20180917_NGS_for_HiC.pdf)</li>
-        <li>[Intro UNIX](/Presentations/Day1/06_20180917_linux.pdf)</li><li>[Intro Python](/Presentations/Day1/07_20180917_python.pdf)</li>
+        <li> <a href="/Presentations/Day1/04_20180917_Intro_TADbit.pdf">Intro TADbit</a></li>
+        <li> <a href="/Presentations/Day1/05_20180917_NGS_for_HiC.pdf">NGS for HiC</a></li>
+        <li> <a href="/Presentations/Day1/06_20180917_linux.pdf">Intro UNIX</a></li>
+        <li> <a href="/Presentations/Day1/07_20180917_python.pdf">Intro Python</a></li>
        </ul>
      </td>
     <tr>
       <td>
+       <ul>
+        <li> <a href="/Notebooks/00-Hi-C%20quality%20check.ipynb">Hi-C Quality check</a></li>
+        <li> <a href="/Notebooks/01-Mapping.ipynb">Mapping</a></li>
+        <li> <a href="/Notebooks/02-Parsing%20mapped%20reads.ipynb">Parsing mapped reads</a></li></li>
+       </ul>
+    </td>
+    <tr>
+      <td>
+       <ul>
+        <li>[Software installation](/Notebooks/A0-Preparing%20your%20computer%20for%20HiC%20data%20analysis.ipynb)</li>
+        <li>[Prepare reference genome](/Notebooks/A1-Preparation%20reference%20genome.ipynb)</li>
+        <li>[Download Hi-C experiment](/Notebooks/A2-Download%20published%20Hi-C%20experiments.ipynb)</li>
+       </ul>
+    </td>
 
 
 
