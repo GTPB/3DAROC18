@@ -29,7 +29,7 @@ It is likely that the participants to this course aim at getting involved in gen
 
 ### Day 1
 
-<table>
+<table style="width:100%">
   <tbody>
     <tr>
       <th>Lectures (pdf)</th>
