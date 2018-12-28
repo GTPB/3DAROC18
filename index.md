@@ -16,7 +16,8 @@ description: 3C-Data Analysis and 3D Chromatin Folding
  - 3D - Generate populations of model structures which reproduce the Hi-C interaction matrices
  - 4D - Compare samples at different time points
 
-Participants can bring specific biological questions and/or their own 3C data to analyze during the course. At the end of the course, participants will be familiar with the TADbit software, and will be able to fully analyze Hi-C data. *Note: Although the TADbit software is central in this course, alternative software will be discussed for each part of the analysis.*
+Participants can bring specific biological questions and/or their own 3C data to analyze during the course. At the end of the course, participants will be familiar with the TADbit software, and will be able to fully analyze Hi-C data. 
+*__Note__: Although the TADbit software is central in this course, alternative software will be discussed for each part of the analysis.*
 
 ## Target Audience
 
