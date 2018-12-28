@@ -31,7 +31,7 @@ It is likely that the participants to this course aim at getting involved in gen
 
 <table style="width:100%">
   <tbody>
-    <tr>
+    <tr style="padding: 15px">
       <th>Lectures (pdf)</th>
       <th>Core pipeline (notebooks)</th>
       <th>Annex (notebooks)</th>
