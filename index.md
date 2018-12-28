@@ -31,10 +31,10 @@ It is likely that the participants to this course aim at getting involved in gen
 
 <table style="width:100%">
   <tbody>
-    <tr style="padding: 25px">
-      <th>Lectures (pdf)</th>
-      <th>Core pipeline (notebooks)</th>
-      <th>Annex (notebooks)</th>
+    <tr>
+      <th style="padding: 25px">Lectures (pdf)</th>
+      <th style="padding: 25px">Core pipeline (notebooks)</th>
+      <th style="padding: 25px">Annex (notebooks)</th>
     </tr>
     <tr>
      <td>
