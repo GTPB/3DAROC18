@@ -132,7 +132,57 @@ It is likely that the participants to this course aim at getting involved in gen
   </tbody>
 </table>
 
+## Day 4
 
+<table style="width:100%">
+  <tbody>
+    <tr>
+      <th style="padding: 15px">Lectures (pdf)</th>
+      <th style="padding: 15px">Core pipeline (notebooks)</th>
+      <th style="padding: 15px">Annex (notebooks)</th>
+    </tr>
+    <tr>
+     <td> 
+        <li> <a href="/Presentations/Day4/01_20180920_Summary_of_day_3.pdf">Morning wrap up</a></li>
+        <li> <a href="/Presentations/Day4/03_20180920_Applications(IIIb)_IMGR.pdf">Applications(IV): Super-resolution Imaging and modeling</a></li>
+       </ul>
+     </td>
+     <td>
+       <ul>
+        <li> <a href="/Notebooks/06a-Modeling%20-%20parameter%20optimization.ipynb">Parameter optimization</a></li>
+        <li> <a href="/Notebooks/06b-Modeling%20-%20model%20optimization.ipynb">Model optimization</a></li>
+       </ul>
+    </td>
+    <td>
+       <ul>
+        <li> <a href="/Notebooks/A5-Modeling%20-%20analysis%20of%203D%20models.ipynb">Analysis of 3D models</a></li>
+       </ul>
+    </td>
+   </tr>
+  </tbody>
+</table>
+
+## Day 5
+
+<table style="width:100%">
+  <tbody>
+    <tr>
+      <th style="padding: 15px">Lectures (pdf)</th>
+      <th style="padding: 15px">Core pipeline (notebooks)</th>
+      <th style="padding: 15px">Annex (notebooks)</th>
+    </tr>
+    <tr>
+     <td> 
+        <li> <a href="/Presentations/Day5/01_20180921_Summary_of_day_4.pdf">Morning wrap up</a></li>
+        <li> <a href="/Presentations/Day5/02_20180921_MuG.pdf">Multiscale Genomics</a></li>
+        <li> <a href="/Presentations/Day5/NucDyn_3DAROC18.pdf">Nucleosome dynamics</a></li>
+        <li> <a href="/Presentations/Day5/3DAROC_mcdna_chromdyn_juergenwalther_21_09_18.pdf">MC-DNA and Chromatin Dynamics</a></li>
+       </ul>
+     </td>
+   </tr>
+  </tbody>
+</table>
+    
 ---
 
 ### Learning objectives
