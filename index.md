@@ -49,7 +49,7 @@ It is likely that the participants to this course aim at getting involved in gen
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: left;
-  background-color: #4CAF50;
+  background-color: #abd6f5;
   color: white;
 }
 </style>
