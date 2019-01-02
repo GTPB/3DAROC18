@@ -30,10 +30,10 @@ It is likely that the participants to this course aim at getting involved in gen
 <table>
   <tbody>
     <tr>
-      <th style="padding: 15px">Days</th>
-      <th style="padding: 15px">Lectures (pdf)</th>
-      <th style="padding: 15px">Core pipeline (notebooks)</th>
-      <th style="padding: 15px">Annex (notebooks)</th>
+      <th>Days</th>
+      <th>Lectures (pdf)</th>
+      <th>Core pipeline (notebooks)</th>
+      <th>Annex (notebooks)</th>
     </tr>
     <tr style="background-color:#e5e8eb">
      <td><strong>Day 1</strong></td>
