@@ -168,8 +168,6 @@ It is likely that the participants to this course aim at getting involved in gen
   <tbody>
     <tr>
       <th style="padding: 15px">Lectures (pdf)</th>
-      <th style="padding: 15px">Core pipeline (notebooks)</th>
-      <th style="padding: 15px">Annex (notebooks)</th>
     </tr>
     <tr>
      <td> 
