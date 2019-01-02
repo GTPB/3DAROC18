@@ -29,7 +29,7 @@ It is likely that the participants to this course aim at getting involved in gen
  
 <table>
   <tbody>
-    <tr class="odd">
+    <tr>
       <th style="padding: 15px">Days</th>
       <th style="padding: 15px">Lectures (pdf)</th>
       <th style="padding: 15px">Core pipeline (notebooks)</th>
@@ -63,7 +63,7 @@ It is likely that the participants to this course aim at getting involved in gen
        </ul>
     </td>
    </tr>
-    <tr class="odd">
+    <tr>
      <td><strong>Day 2</strong></td>
      <td>
        <ul>
@@ -105,7 +105,7 @@ It is likely that the participants to this course aim at getting involved in gen
        </ul>
     </td>
    </tr>
-   <tr class="odd">
+   <tr>
      <td><strong>Day 4</strong></td>
      <td> 
       <ul>
