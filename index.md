@@ -143,7 +143,7 @@ It is likely that the participants to this course aim at getting involved in gen
 
 ---
 
-### Learning objectives
+### [Pre-requisites](pages/prerequesites.md)
 
 ### [Instructors](pages/instructors.md)
 ---
