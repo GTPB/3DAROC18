@@ -169,6 +169,7 @@ It is likely that the participants to this course aim at getting involved in gen
    </tr>
   </tbody>
 </table>
+</html>
 <br/>
 
 ---
