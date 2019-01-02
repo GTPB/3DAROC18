@@ -14,3 +14,7 @@ pre {
 a code {
   color: #08c;
 }
+
+td, th {
+  padding: 15px;
+}
