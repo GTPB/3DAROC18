@@ -27,7 +27,7 @@ It is likely that the participants to this course aim at getting involved in gen
 
 ## Detailed Program
  
-<table-bordered>
+<table>
   <tbody>
     <tr>
       <th style="padding: 15px">Days</th>
@@ -139,7 +139,7 @@ It is likely that the participants to this course aim at getting involved in gen
      <td></td>
    </tr>
   </tbody>
-</table-bordered>
+</table>
 
 ---
 
