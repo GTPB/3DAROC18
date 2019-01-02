@@ -128,7 +128,7 @@ It is likely that the participants to this course aim at getting involved in gen
    </tr>
    </tr>
     <tr>
-     <td><strong>Day 4</strong></td>
+     <td><strong>Day 5</strong></td>
      <td> 
       <ul>
         <li> <a href="/Presentations/Day5/01_20180921_Summary_of_day_4.pdf">Morning wrap up</a></li>
