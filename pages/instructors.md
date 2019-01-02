@@ -7,7 +7,7 @@ description: 3DAROC18 Course instructors description
 ## Marc A. Marti-Renom
 **Affiliation:** Centro Nacional de Análisis Genómico (CNAG) and Center for Genomic Regulation (CRG), Barcelona, ES
 
-<img src="./images/instructors/Marc_Marti-Renom.jpg" height="220px" width="170px" align="left" style="margin-right: 3%; margin-bottom: 0.3em;">
+<img src="./images/instructors/Marc_Marti-Renom.jpeg" height="220px" width="170px" align="left" style="margin-right: 3%; margin-bottom: 0.3em;">
 
 **Marc A. Marti-Renom** obtained a Ph.D. in Biophysics from the Universidad Autonoma de Barcelona where he worked on protein folding under the supervision of B. Oliva, F.X. Aviles and M. Karplus. After that, he went to the US for a postdoctoral training on protein structure modeling at the Sali Lab (Rockefeller University) as the recipient of the Burroughs Wellcome Fund fellowship. Later on, Marc was appointed Assistant Adjunct Professor at UCSF. 
 
@@ -18,7 +18,7 @@ Between 2006 and 2011, he headed of the Structural Genomics Group at the CIPF in
 ## François Serra
 **Affiliation:** Centro Nacional de Análisis Genómico (CNAG) and Center for Genomic Regulation (CRG), Barcelona, ES
 
-<img src="./images/instructors/François_Serra.jpg" height="220px" width="170px" align="left" style="margin-right: 3%; margin-bottom: 0.3em;">
+<img src="./images/instructors/Francois_Serra.jpg" height="220px" width="170px" align="left" style="margin-right: 3%; margin-bottom: 0.3em;">
 
 **François Serra** obtained his Degree in Biology, specialized in Physiology and Neurophysiology, his Master's Degree in Structural genomics and bioinformatics (Strasbourg I University, France) and it's PhD in Evolutionary Genomics in the Department of Bioinformatics at the CIPF (Valencia). He is now part of the Structural Genomic team of Marc Marti-Renom at CNAG and at CRG (Barcelona). 
 
@@ -29,7 +29,7 @@ His main research interests are grounded on comparative genomics and evolution w
 ## David Castillo
 **Affiliation:** Centro Nacional de Análisis Genómico (CNAG) and Center for Genomic Regulation (CRG), Barcelona, ES
 
-<img src="./images/instructors/David_Castillo.jpg" height="220px" width="170px" align="left" style="margin-right: 3%; margin-bottom: 0.3em;">
+<img src="./images/instructors/David_Castillo.JPG" height="220px" width="170px" align="left" style="margin-right: 3%; margin-bottom: 0.3em;">
 
 **David Castillo**  obtained his MSc in Photonics from the Universitat Politècnica de Catalunya in Barcelona (Spain) where he worked in Super-resolution microscopy. He has a background in Physics and Engineering. 
 
