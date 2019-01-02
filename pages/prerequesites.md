@@ -7,6 +7,8 @@ title: Pre-requesites
 
 Recommended Linux and basic Python programming skills, graduate level in Life Sciences. All hands-on will be given at 3 levels of computational expertise (web platform, command-line tool and python scripting).
 
+<br/>
+
 ## TADbit API
 
 This tutorial is associated with a __specific version of TADbit__, if you wish to reproduce exactly the results in the notebooks you should use the version of TADbit tagged `3DAROC_2018`.
@@ -18,6 +20,7 @@ To install this version do:
     git checkout tags/3DAROC_2018
     sudo python setup.py install
 
+<br/>
 
 ## TADbit tools
 
@@ -25,6 +28,7 @@ Most of the tasks of the "core pipeline" can be tunned directly from command lin
 
 _For now TADbit tool is not incuded in the general documetation, as it is still "under construction". Use it carefully, and don't hesitate to repport any weird behaviour you observe._
 
+<br/>
 
 ## Virtual research environment
 
@@ -34,3 +38,9 @@ _For now TADbit tool is not incuded in the general documetation, as it is still 
 With small datasets TADbit core pipeline can be runned through a new Virtual Research Environment ([VRE](https://vre.multiscalegenomics.eu/workspace/)), hosted by the [MuG project](https://www.multiscalegenomics.eu/). 
 
 This might also be the best place to try TADkit for visualizing genomes in 3D together with interactions matrices and any other genomic track.
+
+<br/>
+
+### Back
+
+Back to [first page](https://maccardoso.github.io/3DAROC18/).
