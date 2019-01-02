@@ -5,7 +5,7 @@ tagline: 3C-based data analysis and 3D reconstruction of chromatin folding
 description: 3C-Data Analysis and 3D Chromatin Folding
 ---
 
-<img src="./assets/Entry_image.jpg" width="792" height="622">
+<img src="./assets/material/Entry_image.jpg" width="792" height="622">
 
 ## Course Description
 
@@ -35,7 +35,7 @@ It is likely that the participants to this course aim at getting involved in gen
       <th style="padding: 15px">Core pipeline (notebooks)</th>
       <th style="padding: 15px">Annex (notebooks)</th>
     </tr>
-    <tr style="background-color:#ddd">
+    <tr style="background-color:#ddd;padding: 15px">
      <td><strong>Day 1</strong></td>
      <td>
        <ul>
@@ -63,7 +63,7 @@ It is likely that the participants to this course aim at getting involved in gen
        </ul>
     </td>
    </tr>
-    <tr>
+    <tr style="padding: 15px">
      <td><strong>Day 2</strong></td>
      <td>
        <ul>
@@ -85,7 +85,7 @@ It is likely that the participants to this course aim at getting involved in gen
        </ul>
     </td>
    </tr>
-   <tr style="background-color:#ddd">
+   <tr style="background-color:#ddd;padding: 15px">
      <td><strong>Day 3</strong></td>
      <td>
        <ul>
@@ -105,7 +105,7 @@ It is likely that the participants to this course aim at getting involved in gen
        </ul>
     </td>
    </tr>
-   <tr>
+   <tr style="padding: 15px">
      <td><strong>Day 4</strong></td>
      <td> 
       <ul>
@@ -125,7 +125,7 @@ It is likely that the participants to this course aim at getting involved in gen
        </ul>
     </td>
    </tr>
-    <tr style="background-color:#ddd">
+    <tr style="background-color:#ddd;padding: 15px">
      <td><strong>Day 5</strong></td>
      <td> 
       <ul>
