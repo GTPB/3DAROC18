@@ -32,7 +32,9 @@ His main research interests are grounded on comparative genomics and evolution w
 <img src="./images/instructors/David_Castillo.jpg" height="220px" width="170px" align="left" style="margin-right: 3%; margin-bottom: 0.3em;">
 
 **David Castillo**  obtained his MSc in Photonics from the Universitat Politècnica de Catalunya in Barcelona (Spain) where he worked in Super-resolution microscopy. He has a background in Physics and Engineering. 
+
 He works as a technician in the Structural Genomics team of Marc A. Martí-Renom at CNAG-CRG (Barcelona), developing tools for the analysis, modelling and visualization of HiC data. 
+
 He is also interested in the integration of microscopy to the modeling of genomic 3D structures.
 
 <br/><br/>
