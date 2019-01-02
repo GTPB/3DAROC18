@@ -36,7 +36,7 @@ It is likely that the participants to this course aim at getting involved in gen
       <th style="padding: 15px">Core pipeline (notebooks)</th>
       <th style="padding: 15px">Annex (notebooks)</th>
     </tr>
-    <tr>
+    <tr style="background-color:##cccccc">
      <td>
        <ul>
         <li> <a href="/Presentations/Day1/01_20180917_Welcome.pdf">Welcome</a></li>
