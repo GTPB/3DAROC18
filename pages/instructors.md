@@ -29,7 +29,7 @@ description: 3DAROC18 Course instructors description
 
 **David Castillo**  obtained his MSc in Photonics from the Universitat Politècnica de Catalunya in Barcelona (Spain) where he worked in Super-resolution microscopy. He has a background in Physics and Engineering. He works as a technician in the Structural Genomics team of Marc A. Martí-Renom at CNAG-CRG (Barcelona), developing tools for the analysis, modelling and visualization of HiC data. He is also interested in the integration of microscopy to the modeling of genomic 3D structures.
 
-<br/>
+<br/><br/>
 
 ---
 
