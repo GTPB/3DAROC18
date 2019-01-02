@@ -10,9 +10,7 @@ a code {
   color: #08c;
 }
 
-<html>
-<head>
-<style>
+table {
 #customers {
   font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
   border-collapse: collapse;
@@ -35,6 +33,4 @@ a code {
   background-color: #78acd2;
   color: white;
 }
-</style>
-</head>
-</html>
+}
