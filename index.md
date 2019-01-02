@@ -143,6 +143,7 @@ It is likely that the participants to this course aim at getting involved in gen
     </tr>
     <tr>
      <td> 
+      <ul>
         <li> <a href="/Presentations/Day4/01_20180920_Summary_of_day_3.pdf">Morning wrap up</a></li>
         <li> <a href="/Presentations/Day4/03_20180920_Applications(IIIb)_IMGR.pdf">Applications(IV): Super-resolution Imaging and modeling</a></li>
        </ul>
