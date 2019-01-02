@@ -171,6 +171,7 @@ It is likely that the participants to this course aim at getting involved in gen
     </tr>
     <tr>
      <td> 
+      <ul>
         <li> <a href="/Presentations/Day5/01_20180921_Summary_of_day_4.pdf">Morning wrap up</a></li>
         <li> <a href="/Presentations/Day5/02_20180921_MuG.pdf">Multiscale Genomics</a></li>
         <li> <a href="/Presentations/Day5/NucDyn_3DAROC18.pdf">Nucleosome dynamics</a></li>
