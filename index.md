@@ -35,7 +35,7 @@ It is likely that the participants to this course aim at getting involved in gen
       <th style="padding: 15px">Core pipeline (notebooks)</th>
       <th style="padding: 15px">Annex (notebooks)</th>
     </tr>
-    <tr style="background-color:#ddd;padding: 15px">
+    <tr style="background-color:e5e8eb">
      <td><strong>Day 1</strong></td>
      <td>
        <ul>
@@ -63,7 +63,7 @@ It is likely that the participants to this course aim at getting involved in gen
        </ul>
     </td>
    </tr>
-    <tr style="padding: 15px">
+    <tr>
      <td><strong>Day 2</strong></td>
      <td>
        <ul>
@@ -85,7 +85,7 @@ It is likely that the participants to this course aim at getting involved in gen
        </ul>
     </td>
    </tr>
-   <tr style="background-color:#ddd;padding: 15px">
+   <tr style="background-color:#e5e8eb">
      <td><strong>Day 3</strong></td>
      <td>
        <ul>
@@ -105,7 +105,7 @@ It is likely that the participants to this course aim at getting involved in gen
        </ul>
     </td>
    </tr>
-   <tr style="padding: 15px">
+   <tr>
      <td><strong>Day 4</strong></td>
      <td> 
       <ul>
@@ -125,7 +125,7 @@ It is likely that the participants to this course aim at getting involved in gen
        </ul>
     </td>
    </tr>
-    <tr style="background-color:#ddd;padding: 15px">
+    <tr style="background-color:#e5e8eb">
      <td><strong>Day 5</strong></td>
      <td> 
       <ul>
