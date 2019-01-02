@@ -27,7 +27,7 @@ It is likely that the participants to this course aim at getting involved in gen
 
 ## Detailed Program
  
-<table style="border: 1px solid black; padding: 15px">
+<table>
   <tbody>
     <tr>
       <th style="padding: 15px">Days</th>
