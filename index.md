@@ -56,7 +56,7 @@ It is likely that the participants to this course aim at getting involved in gen
 </head>
 <body>
  
-<table id="customers" style="width:100%">
+<table id="customers">
   <tbody>
     <tr>
       <th style="padding: 15px">Days</th>
