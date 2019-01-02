@@ -29,7 +29,7 @@ _For now TADbit tool is not incuded in the general documetation, as it is still 
 ## Virtual research environment
 
 
-<img align="right" src=https://www.irbbarcelona.org/sites/default/files/news/2017/07/mug2.jpg?raw=True width="160">
+<img align="right" src="https://www.irbbarcelona.org/sites/default/files/news/2017/07/mug2.jpg?raw=True" width="160">
 
 With small datasets TADbit core pipeline can be runned through a new Virtual Research Environment ([VRE](https://vre.multiscalegenomics.eu/workspace/)), hosted by the [MuG project](https://www.multiscalegenomics.eu/). 
 
