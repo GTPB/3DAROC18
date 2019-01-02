@@ -145,7 +145,7 @@ It is likely that the participants to this course aim at getting involved in gen
 
 ### Learning objectives
 
-### Instructors
+### [Instructors](pages/instructors.md)
 ---
 
 The source for this course webpage is [on github](https://github.com/GTPB/Web_course_template).
