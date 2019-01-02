@@ -37,10 +37,6 @@ He works as a technician in the Structural Genomics team of Marc A. Martí-Renom
 
 He is also interested in the integration of microscopy to the modeling of genomic 3D structures.
 
-<br/><br/>
-
----
-
 <br/>
 
 ### Back
