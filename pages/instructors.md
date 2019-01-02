@@ -24,6 +24,8 @@ Between 2006 and 2011, he headed of the Structural Genomics Group at the CIPF in
 
 His main research interests are grounded on comparative genomics and evolution with a special focus on the effect of evolution in the structural arrangement of genomes. He has taught MEPA and 3DMOG for GTPB, and also in similar courses at CIPF (Valencia, ES) and the Department of Genetics of the University of Cambridge (UK).
 
+<br/>
+
 ---
 
 ## David Castillo
