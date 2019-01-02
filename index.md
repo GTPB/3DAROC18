@@ -5,7 +5,7 @@ tagline: 3C-based data analysis and 3D reconstruction of chromatin folding
 description: 3C-Data Analysis and 3D Chromatin Folding
 ---
 
-![](IMAGE)
+<img src="./assets/Entry_image.jpg" width="792" height="622">
 
 ## Course Description
 
