@@ -4,8 +4,7 @@ title: 3DAROC18
 tagline: 3C-based data analysis and 3D reconstruction of chromatin folding
 description: 3C-Data Analysis and 3D Chromatin Folding
 ---
-
-<img src="./assets/material/Entry_Image.jpg" width="792" height="622">
+![](./assets/material/Entry_Image.jpg)
 
 ## Course Description
 
