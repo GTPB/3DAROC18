@@ -1,7 +1,21 @@
 ---
 layout: page
-title: Pre-requesites
+title: Learning Objectives and Pre-requesites
 ---
+
+# Learning Objetives
+
+In this course, participants will learn to use TADbit, a software designed and developed to manage all the dimensionalities of the Hi-C data:
+
+ - 1D - Map paired-end sequences to generate Hi-C interaction matrices
+ - 2D - Normalize matrices and identify constitutive domains (compartments, TADs)
+ - 3D - Generate populations of model structures which reproduce the Hi-C interaction matrices
+ - 4D - Compare samples at different time points
+
+Participants can bring specific biological questions and/or their own 3C data to analyze during the course. At the end of the course, participants will be familiar with the TADbit software, and will be able to fully analyze Hi-C data. 
+*__Note__: Although the TADbit software is central in this course, alternative software will be discussed for each part of the analysis.*
+
+<br/>
 
 # Pre-requisites
 
