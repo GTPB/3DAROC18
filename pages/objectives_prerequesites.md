@@ -57,4 +57,4 @@ This might also be the best place to try TADkit for visualizing genomes in 3D to
 
 ### Back
 
-Back to [first page](https://maccardoso.github.io/3DAROC18/).
+Back to [first page](../index.md).
