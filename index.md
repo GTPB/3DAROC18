@@ -26,7 +26,7 @@ It is likely that the participants to this course aim at getting involved in gen
       <th>Core pipeline (notebooks)</th>
       <th>Annex (notebooks)</th>
     </tr>
-    <tr style="background-color:#e5e8eb">
+    <tr>
      <td><strong>Day 1</strong></td>
      <td>
        <ul>
@@ -76,7 +76,7 @@ It is likely that the participants to this course aim at getting involved in gen
        </ul>
     </td>
    </tr>
-   <tr style="background-color:#e5e8eb">
+   <tr>
      <td><strong>Day 3</strong></td>
      <td>
        <ul>
@@ -116,7 +116,7 @@ It is likely that the participants to this course aim at getting involved in gen
        </ul>
     </td>
    </tr>
-    <tr style="background-color:#e5e8eb">
+    <tr>
      <td><strong>Day 5</strong></td>
      <td> 
       <ul>
