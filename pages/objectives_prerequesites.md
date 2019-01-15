@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Learning Objectives and Pre-requesites
+title: Learning Objectives and Course Pre-requesites
 ---
 
 # Learning Objetives
@@ -17,7 +17,7 @@ Participants can bring specific biological questions and/or their own 3C data to
 
 <br/>
 
-# Pre-requisites
+# Course Pre-requisites
 
 Recommended Linux and basic Python programming skills, graduate level in Life Sciences. All hands-on will be given at 3 levels of computational expertise (web platform, command-line tool and python scripting).
 
