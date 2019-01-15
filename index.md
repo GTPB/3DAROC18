@@ -16,6 +16,8 @@ The course is designed for experimental researchers and bioinformaticians at the
 
 It is likely that the participants to this course aim at getting involved in generating Hi-C data for  chromosome structure determination, or that they just want to be able to correctly interpret and analyse publicly available data.
 
+---
+
 ## Detailed Program
  
 <table>
@@ -134,7 +136,7 @@ It is likely that the participants to this course aim at getting involved in gen
 
 ---
 
-### [Learning objectives and Pre-requisites](pages/objectives_prerequesites.md)
+### [Learning objectives and Course Pre-requisites](pages/objectives_prerequesites.md)
 
 ### [Instructors](pages/instructors.md)
 ---
