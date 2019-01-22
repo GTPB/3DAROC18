@@ -18,8 +18,10 @@ It is likely that the participants to this course aim at getting involved in gen
 
 ---
 
-## Detailed Program
- 
+## Course Documentation
+All the datasets used for this training course is available throughout the documentation.
+
+
 <table>
   <tbody>
     <tr>
