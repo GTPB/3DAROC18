@@ -46,4 +46,4 @@ He is also interested in the integration of microscopy to the modeling of genomi
 
 ### Back
 
-Back to [first page](../index.md).
+Back to [main page](../index.md).
