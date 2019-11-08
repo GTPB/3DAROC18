@@ -8,11 +8,11 @@ description: 3C-Data Analysis and 3D Chromatin Folding
 
 ## Course Description
 
-3C-based methods, such as Hi-C, produce a huge amount of raw data as pairs of DNA reads that are spatially close in the cell nucleus. Overall, these interaction matrices have been used to study how the genome folds within the nucleus, that is one of the most fascinating problems in modern biology. The rigorous analysis of the paired-reads using computational tools has been essential to fully exploit the experimental technique, and to study how the genome is folded in the space. Currently, there is a huge expansion on the wealth of data on genome structure with the availability of many datasets of Hi-C experiments down to 1 kb resolution (see for example: [Hi-C Data Browser](http://hic.umassmed.edu/welcome/welcome.php); [3D Genome Browser](http://promoter.bx.psu.edu/hi-c/view.php) or [Aiden Lab](http://www.aidenlab.org/data.html)). 
+3C-based methods, such as Hi-C, produce a huge amount of raw data as pairs of DNA reads that are spatially close in the cell nucleus. Overall, these interaction matrices have been used to study how the genome folds within the nucleus, that is one of the most fascinating problems in modern biology. The rigorous analysis of the paired-reads using computational tools has been essential to fully exploit the experimental technique, and to study how the genome is folded in the space. Currently, there is a huge expansion on the wealth of data on genome structure with the availability of many datasets of Hi-C experiments down to 1 kb resolution (see for example: [Hi-C Data Browser](http://hic.umassmed.edu/welcome/welcome.php); [3D Genome Browser](http://promoter.bx.psu.edu/hi-c/view.php) or [Aiden Lab](http://www.aidenlab.org/data.html)).
 
 ## Target Audience
 
-The course is designed for experimental researchers and bioinformaticians at the graduate and post-graduate levels which are interested in studying the genome spatial organization. 
+The course is designed for experimental researchers and bioinformaticians at the graduate and post-graduate levels which are interested in studying the genome spatial organization.
 
 It is likely that the participants to this course aim at getting involved in generating Hi-C data for  chromosome structure determination, or that they just want to be able to correctly interpret and analyse publicly available data.
 
@@ -102,7 +102,7 @@ All the datasets used for this training course is available throughout the docum
    </tr>
    <tr>
      <td><strong>Day 4</strong></td>
-     <td> 
+     <td>
       <ul>
         <li> <a href="./assets/material/Presentations/Day4/01_20180920_Summary_of_day_3.pdf">Morning wrap up</a></li>
         <li> <a href="./assets/material/Presentations/Day4/03_20180920_Applications(IIIb)_IMGR.pdf">Applications(IV): Super-resolution Imaging and modeling</a></li>
@@ -122,7 +122,7 @@ All the datasets used for this training course is available throughout the docum
    </tr>
     <tr>
      <td><strong>Day 5</strong></td>
-     <td> 
+     <td>
       <ul>
         <li> <a href="./assets/material/Presentations/Day5/01_20180921_Summary_of_day_4.pdf">Morning wrap up</a></li>
         <li> <a href="./assets/material/Presentations/Day5/02_20180921_MuG.pdf">Multiscale Genomics</a></li>
@@ -136,6 +136,7 @@ All the datasets used for this training course is available throughout the docum
   </tbody>
 </table>
 
+
 ---
 
 ### [Learning Objectives and Course Pre-requisites](pages/objectives_prerequisites.md)
@@ -144,3 +145,7 @@ All the datasets used for this training course is available throughout the docum
 ---
 
 The source for this course webpage is [on github](https://github.com/GTPB/3DAROC18).
+
+<br/>
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">3DAROC18</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">GTPB</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
