@@ -1,9 +1,47 @@
 ---
 layout: page
-title: 3DAROC18
-tagline: 3C-based data analysis and 3D reconstruction of chromatin folding
-description: 3C-Data Analysis and 3D Chromatin Folding
+schemadotorg:
+  "@context": http://schema.org/
+  "@type": CreativeWork
+  "genre": TrainingMaterial
+
+  # Course details
+       # "name" -> The name of the course
+       # "description" -> Short description of the course
+  name: "3DAROC18 - 3C-based data analysis and 3D reconstruction of chromatin folding"
+  description: "Training Material focused in 3C-Data Analysis and 3D Chromatin Folding."
+
+  # Keywords -> Consult EDAM:Topic
+  keywords:  "http://www.ebi.ac.uk/efo/EFO_0007693"
+
+  # Audience -> Following Elixir-Tess input
+  audience: ["Academia/ Research Institution", "Industry", "Non-Profit Organisation", "Healthcare"]
+
+  # Author info
+  author:
+    - "@type": Organization
+      name: "The Gulbenkian Training Programme in Bioinformatics"
+      alternateName: "GTPB"
+      sameAs: "gtpb.igc.gulbenkian.pt/bicourses/index.html"
+
+  # predominant type of learning resources
+  "learningResourceType": ["presentation", "exercise", "scripts", "handout"]
+
+  # Contributor info
+  contributor:
+    - "@type": Person
+      name: "Marc A. Martí-Renom"
+    - "@type": Person
+      name: "François Serra"
+    - "@type": Person
+      name: "David Castillo"
+
+  # License & Language & url
+  license: https://creativecommons.org/licenses/by/4.0/
+  inLanguage: "en-us"
+  url: "https://gtpb.github.io/3DAROC18/"
 ---
+
 ![](./assets/material/Entry_Image.jpg)
 
 ## Course Description

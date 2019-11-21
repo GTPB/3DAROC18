@@ -1,6 +1,13 @@
 ---
 layout: page
 title: Learning Objectives and Course Pre-requesites
+schemadotorg:
+  "@context": http://schema.org/
+  "@type": CreativeWork
+  "genre": TrainingMaterial
+  isPartOf:
+      url: "https://gtpb.github.io/3DAROC18/"
+      name: "3DAROC18 - 3C-based data analysis and 3D reconstruction of chromatin folding"
 ---
 
 # Learning Objetives
@@ -12,7 +19,7 @@ In this course, participants will learn to use TADbit, a software designed and d
  - 3D - Generate populations of model structures which reproduce the Hi-C interaction matrices
  - 4D - Compare samples at different time points
 
-Participants can bring specific biological questions and/or their own 3C data to analyze during the course. At the end of the course, participants will be familiar with the TADbit software, and will be able to fully analyze Hi-C data. 
+Participants can bring specific biological questions and/or their own 3C data to analyze during the course. At the end of the course, participants will be familiar with the TADbit software, and will be able to fully analyze Hi-C data.
 *__Note__: Although the TADbit software is central in this course, alternative software will be discussed for each part of the analysis.*
 
 <br/>
@@ -38,7 +45,7 @@ To install this version do:
 
 ## TADbit tools
 
-Most of the tasks of the "core pipeline" can be tunned directly from command line (without any python), using [TADbit tool](/TADbit_tools). Have a look to the commands, and the metadata of the results. 
+Most of the tasks of the "core pipeline" can be tunned directly from command line (without any python), using [TADbit tool](/TADbit_tools). Have a look to the commands, and the metadata of the results.
 
 _For now TADbit tool is not incuded in the general documetation, as it is still "under construction". Use it carefully, and don't hesitate to repport any weird behaviour you observe._
 
@@ -49,7 +56,7 @@ _For now TADbit tool is not incuded in the general documetation, as it is still 
 
 <img align="right" src="https://www.irbbarcelona.org/sites/default/files/news/2017/07/mug2.jpg?raw=True" width="160">
 
-With small datasets TADbit core pipeline can be runned through a new Virtual Research Environment ([VRE](https://vre.multiscalegenomics.eu/workspace/)), hosted by the [MuG project](https://www.multiscalegenomics.eu/). 
+With small datasets TADbit core pipeline can be runned through a new Virtual Research Environment ([VRE](https://vre.multiscalegenomics.eu/workspace/)), hosted by the [MuG project](https://www.multiscalegenomics.eu/).
 
 This might also be the best place to try TADkit for visualizing genomes in 3D together with interactions matrices and any other genomic track.
 
