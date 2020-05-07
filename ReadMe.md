@@ -1,4 +1,5 @@
 ## 3DAROC18 - 3C-based data analysis and 3D reconstruction of chromatin folding
+[![DOI](https://zenodo.org/badge/166972410.svg)](https://zenodo.org/badge/latestdoi/166972410)
 
 ###  Instituto Gulbenkian de Ciência (IGC) - Oeiras, Portugal - September 17<sup>th</sup> - September 21<sup>st</sup> 2018
 
